@@ -1,4 +1,4 @@
-# PowerBi__SALES_Dashboard-
+# EXCEL__SALES_Dashboard-
 
 This is POWER BI end to end Project
 Tasks:
