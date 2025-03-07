@@ -22,6 +22,9 @@ Tasks:
  data.
  Use slicers to allow users to filter data by region, product category, and
  time period.
+
+DASHBOARD SCREENSHOT--------![image](https://github.com/user-attachments/assets/9312c032-11ef-4403-bd62-40ae8a9d1936)
+ 
  Include KPIs such as total sales, average sales per product, and growth
  rate.
 
